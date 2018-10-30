@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D0DA-AB12
+
+ Directory of C:\Users\010514\Desktop\javaProject1
+
+30-Oct-18  01:45 PM    <DIR>          .
+30-Oct-18  01:45 PM    <DIR>          ..
+30-Oct-18  10:43 AM               676 Hello.class
+30-Oct-18  10:43 AM               158 Hello.java
+30-Oct-18  01:15 PM               459 readme.txt
+30-Oct-18  01:45 PM                 0 test1.txt
+               4 File(s)          1,293 bytes
+               2 Dir(s)  63,668,195,328 bytes free
